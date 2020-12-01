@@ -16,3 +16,5 @@ There are some python program is which you'll enjoy the python code.
 #102 Virtual Assistant
 
 1. In thi python program you have to install the [pyttsx3] package in your IDE.
+2. This program create a simple virtual talking assistant in your IDE.
+3. 
